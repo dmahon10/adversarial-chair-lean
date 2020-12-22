@@ -84,15 +84,13 @@ Lastly, powering the set up turned out to be a challenge. The motor commanded mo
 
 
 
-### Gallery
+### Construction
 
+<p><img alt="" src="https://personalsite-headlesscms-bucket.s3.amazonaws.com/static/uploads/2020/12/22/3dprint.png" style="width:50%" /><img alt="" src="https://personalsite-headlesscms-bucket.s3.amazonaws.com/static/uploads/2020/12/22/marb.jpeg" style="width:50%" /></p>
 
+<p><img alt="" src="https://personalsite-headlesscms-bucket.s3.amazonaws.com/static/uploads/2020/12/22/frame.jpeg" style="width:50%" /><img alt="" src="https://personalsite-headlesscms-bucket.s3.amazonaws.com/static/uploads/2020/12/22/house.jpeg" style="width:50%" /></p>
 
-VIDEO of SCREEN
-
-
-
-VIDEO OF ROBOT
+<p><img alt="" src="https://personalsite-headlesscms-bucket.s3.amazonaws.com/static/uploads/2020/12/22/brains.jpeg" style="width:50%" /><img alt="" src="https://personalsite-headlesscms-bucket.s3.amazonaws.com/static/uploads/2020/12/22/end.jpeg" style="width:50%" /></p>
 
 
 
