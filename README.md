@@ -5,13 +5,33 @@ This repo contains the software for a computer vision motor control project. Spe
 The `app` files run on a Raspberry Pi 4 with a camera module and the `embedded` files run on a `ATTINY44` microcontroller that I have on a custom motor driver circuit.
 
 
-Click Images for YouTube videos
+
+### Demos
+
+Click Images for YouTube videos.
+
+
+
+Headful facial recognition program. Selects nearest face and gives feedback on whether or not the face is centered. Eventually this will be driving a motor that will turn the camera chassis to center the face in the frame.
+
+
+
+[![V1 demo](https://img.youtube.com/vi/e4jM0XnvpGQ/0.jpg)](https://youtu.be/e4jM0XnvpGQ)
+
+
+
+Prototypes 0 and 1:
+
+Software working as hoped:
 
 [![V1 demo](https://img.youtube.com/vi/YnwGxl61sro/0.jpg)](https://youtu.be/YnwGxl61sro)
 
 
 
+A lack of gearing leading to rotational over correction. Details below.
+
 [![V2 Demo](https://img.youtube.com/vi/V6gQ_h0EiO8/0.jpg)](https://youtu.be/V6gQ_h0EiO8)
+
 
 
 ### Set Up
