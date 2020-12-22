@@ -1,3 +1,10 @@
+# What is it?
+
+This repo contains the software for a computer vision motor control project. Specifically, the brains of a face following swivel robot. It behaves in much the same as a face tracking security camera, but I want to use it to create a chair that always turns away from you, making it impossible to sit in.
+
+The `app` files run on a Raspberry Pi 4 with a camera module and the `embedded` files run on a `ATTINY44` microcontroller that I have on a custom motor driver circuit.
+
+
 Click Images for YouTube videos
 
 [![V1 demo](https://img.youtube.com/vi/YnwGxl61sro/0.jpg)](https://youtu.be/YnwGxl61sro)
@@ -5,15 +12,6 @@ Click Images for YouTube videos
 
 
 [![V2 Demo](https://img.youtube.com/vi/V6gQ_h0EiO8/0.jpg)](https://youtu.be/V6gQ_h0EiO8)
-
-
-
-# What is it?
-
-This repo contains the software for a computer vision motor control project. Specifically, the brains of a face following swivel robot. It behaves in much the same as a face tracking security camera, but I want to use it to create a chair that always turns away from you, making it impossible to sit in.
-
-The `app` files run on a Raspberry Pi 4 with a camera module and the `embedded` files run on a `ATTINY44` microcontroller that I have on a custom motor driver circuit.
-
 
 
 ### Set Up
